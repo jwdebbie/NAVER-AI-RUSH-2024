@@ -1,5 +1,5 @@
 # AIME - 교제폭력 증거수집 AI 다이어리
-> NAVER AI RUSH 2024 프로젝트 | HyperCLOVA X 및 네이버 멀티모달 AI(CLOVA OCR/Speech) 기반 교제폭력 피해자 증거 수집 및 감정 기록 지원 서비스
+> NAVER AI RUSH' 2024 프로젝트 | HyperCLOVA X 및 네이버 멀티모달 AI(CLOVA OCR/Speech) 기반 교제폭력 피해자 증거 수집 및 감정 기록 지원 서비스
 
 ---
 
